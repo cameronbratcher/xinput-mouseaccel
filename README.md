@@ -1,6 +1,6 @@
 # xinput-mouseaccel
 Simple script to disable mouse acceleration completely on most Linux distros
-#Usage
+###Usage
 Run `xinput` on your linux machine to see a list of input devices.
 In the script, change `changeme` to whatever number corresponds to your mouse.
 
